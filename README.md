@@ -1,5 +1,54 @@
-<h1 align="center">Hi 👋, I'm Mayank Z</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+### 👋 Hi there, I'm Mayank Zarkar
+
+I'm a full-stack developer with **8+ years** of experience building scalable, performant, and maintainable web applications. I specialize in **Laravel**, **Vue.js**, and clean MVC architecture, and I love turning complex business logic into elegant code.
+
+---
+
+### 🧰 Tech Stack
+
+**🖥️ Backend**  
+• Laravel 12, Symfony, CakePHP, CodeIgniter  
+• REST APIs, Event Subscribers, Queues, Jobs  
+• MySQL, PostgreSQL, MongoDB  
+• CMS Integrations (Craft, Strapi, BigCommerce)
+
+**🎨 Frontend**  
+• Vue.js, Nuxt, React, Angular  
+• TypeScript, Alpine.js, JavaScript  
+• Tailwind CSS, Bootstrap, Material UI
+
+**☁️ DevOps & Tooling**  
+• Docker, GitHub Actions, GitLab CI/CD  
+• AWS (EC2, S3, RDS), DigitalOcean  
+• Git, Bitbucket, Jira, Trello
+
+---
+
+### 💼 Selected Projects
+
+- 🎯 [inkFrog.com](https://www.inkfrog.com/) – SaaS frontend for eBay sellers, built with Vue.js & API integration  
+- 🌱 [goingbloom.com](https://www.goingbloom.com/) – Full-stack marketing site with custom UI and backend logic  
+- 🚢 [ShipSaver.com](https://www.shipsaver.com/) – Shipping insurance platform using Laravel queues, APIs, Stripe  
+- 🧾 [uCollect.biz](https://www.ucollect.biz/) – Recurring billing automation with Laravel and Xero/QuickBooks APIs  
+- 🏡 [Clear Mortgage Capital](https://www.clearmortgagecapital.com/) – Laravel-based mortgage platform on AWS stack
+
+---
+
+### 🧪 Code Sample
+
+Due to NDA restrictions, most of my repos are private — but here’s a Laravel sample project that reflects my structure and coding standards:
+
+📂 [Sample Laravel Backend Code (Google Drive)](https://your-drive-link-here)  
+_Modular architecture using Controllers, Services, Subscribers, Jobs, and Eloquent best practices._
+
+---
+
+### 📬 Let's Connect
+
+I'm open to collaborations, consulting, and long-term freelance roles.  
+If you're working on something exciting in Laravel, Vue, or SaaS — let's chat!
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankzarkar&label=Profile%20views&color=0e75b6&style=flat" alt="mayankzarkar" /> </p>
 
