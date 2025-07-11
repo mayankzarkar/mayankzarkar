@@ -34,14 +34,6 @@ I'm a full-stack developer with **8+ years** of experience building scalable, pe
 
 ---
 
-### 🧪 Code Sample
-
-Due to NDA restrictions, most of my repos are private — but here’s a Laravel sample project that reflects my structure and coding standards:
-
-📂 [Sample Laravel Backend Code (Google Drive)](https://your-drive-link-here)  
-_Modular architecture using Controllers, Services, Subscribers, Jobs, and Eloquent best practices._
-
----
 
 ### 📬 Let's Connect
 
