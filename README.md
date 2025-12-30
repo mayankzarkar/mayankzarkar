@@ -2,7 +2,7 @@
 👋 𝗠𝗮𝘆𝗮𝗻𝗸 𝗭𝗮𝗿𝗸𝗮𝗿
 
 Staff / Principal-Level Backend Engineer
-Symfony • Laravel • Distributed & Long-Lived Systems
+**Symfony** • **Laravel** • **Distributed & Long-Lived Systems**
 
 ────────────────────────────
 
