@@ -1,56 +1,77 @@
-### 👋 Hi there, I'm Mayank Zarkar
 
-I'm a full-stack developer with **8+ years** of experience building scalable, performant, and maintainable web applications. I specialize in **Laravel**, **Vue.js**, and clean MVC architecture, and I love turning complex business logic into elegant code.
+👋 𝗠𝗮𝘆𝗮𝗻𝗸 𝗭𝗮𝗿𝗸𝗮𝗿
 
----
+Staff / Principal-Level Backend Engineer
+Symfony • Laravel • Distributed & Long-Lived Systems
 
-### 🧰 Tech Stack
+────────────────────────────
 
-**🖥️ Backend**  
-• Laravel 12, Symfony, CakePHP, CodeIgniter  
-• REST APIs, Event Subscribers, Queues, Jobs  
-• MySQL, PostgreSQL, MongoDB  
-• CMS Integrations (Craft, Strapi, BigCommerce)
+𝗔𝗯𝗼𝘂𝘁
 
-**🎨 Frontend**  
-• Vue.js, Nuxt, React, Angular  
-• TypeScript, Alpine.js, JavaScript  
-• Tailwind CSS, Bootstrap, Material UI
+I work on backend systems where correctness, clarity, and longevity matter more than speed of delivery. My focus is on designing architectures that can evolve safely over time, even as requirements, teams, and scale change.
 
-**☁️ DevOps & Tooling**  
-• Docker, GitHub Actions, GitLab CI/CD  
-• AWS (EC2, S3, RDS), DigitalOcean  
-• Git, Bitbucket, Jira, Trello
+Over the last **8+ years**, I’ve built and stabilised production systems using **Symfony and Laravel**, across both greenfield builds and large legacy platforms.
 
----
+────────────────────────────
 
-### 💼 Selected Projects
+𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆
 
-- 🎯 [inkFrog.com](https://www.inkfrog.com/) – SaaS frontend for eBay sellers, built with Vue.js & API integration  
-- 🌱 [goingbloom.com](https://www.goingbloom.com/) – Full-stack marketing site with custom UI and backend logic  
-- 🚢 [ShipSaver.com](https://www.shipsaver.com/) – Shipping insurance platform using Laravel queues, APIs, Stripe  
-- 🧾 [uCollect.biz](https://www.ucollect.biz/) – Recurring billing automation with Laravel and Xero/QuickBooks APIs  
-- 🏡 [Clear Mortgage Capital](https://www.clearmortgagecapital.com/) – Laravel-based mortgage platform on AWS stack
+I prefer systems that are easy to reason about, easy to change, and hard to misuse. I value explicit boundaries over clever abstractions, small reversible decisions over large irreversible ones, and observability over assumptions. Architecture should reduce cognitive load for the team, not increase it, and the best solutions are usually the simplest ones that still respect domain complexity and long-term operational reality.
 
----
+────────────────────────────
 
+𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮𝗹 𝗙𝗼𝗰𝘂𝘀
 
-### 📬 Let's Connect
+• Clean application of **design patterns** to reduce coupling and improve testability
+• **Domain-Driven Design** to align business language with system structure
+• **CQRS-style separation** where read and write concerns diverge under scale
+• **Event-Driven Architecture** for decoupled workflows and system resilience
+• **Asynchronous jobs and background processing** for long-running and failure-prone tasks
+• Well-defined service boundaries and contracts, including **REST and SOAP APIs**
+• Robust **third-party service integrations** with retries, idempotency, and failure handling
 
-I'm open to collaborations, consulting, and long-term freelance roles.  
-If you're working on something exciting in Laravel, Vue, or SaaS — let's chat!
+These techniques are applied pragmatically — not every system needs every pattern, but the right ones matter at the right time.
 
+────────────────────────────
 
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗼𝗼𝗹𝗶𝗻𝗴
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankzarkar&label=Profile%20views&color=0e75b6&style=flat" alt="mayankzarkar" /> </p>
+𝗖𝗼𝗿𝗲
+PHP | Symfony | Laravel | OOP | MVC / HMVC | REST & SOAP APIs
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankzarkar" alt="mayankzarkar" /></a> </p>
+𝗦𝘆𝘀𝘁𝗲𝗺𝘀
+Event Queues | Background Workers | Messaging | Caching
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+𝗗𝗮𝘁𝗮
+MySQL | PostgreSQL | Schema Design | Query Optimisation | Migrations
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankzarkar&show_icons=true&locale=en&layout=compact" alt="mayankzarkar" /></p>
+𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺
+Docker | CI/CD | AWS | Git | Observability & Logging
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankzarkar&show_icons=true&locale=en" alt="mayankzarkar" /></p>
+────────────────────────────
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankzarkar&" alt="mayankzarkar" /></p>
+𝗧𝗵𝗶𝘀 𝗚𝗶𝘁𝗛𝘂𝗯
+
+Public repositories here are **representative**, not exhaustive.
+They exist to show **engineering approach, structure, and trade-offs**, not polished commercial products.
+
+Most real-world systems I’ve worked on are client-owned and private.
+
+────────────────────────────
+
+𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗦𝘁𝘆𝗹𝗲
+
+• Bias toward boring, predictable systems
+• Strong preference for explicit contracts and data flow
+• Comfortable owning architectural decisions and their consequences
+• Experienced in mentoring senior engineers and reviewing complex changes
+• Pragmatic about trade-offs between purity, delivery, and risk
+
+────────────────────────────
+
+𝗖𝗼𝗻𝗻𝗲𝗰𝘁
+
+If you’re building a system that needs to **operate reliably for years**, not just launch successfully, feel free to reach out.
+
+────────────────────────────
+
